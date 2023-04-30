@@ -1,2 +1,2 @@
-# OOAJD_Mini_Project
+# OOADJ_Mini_Project
 Flipkart-Clone mini project for OOAJD
